@@ -46,7 +46,7 @@ Since the Box2D physics engine requires compiling C++ libraries locally on macOS
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/LunarLander-PPO.git](https://github.com/YOUR_GITHUB_USERNAME/LunarLander-PPO.git)
+git clone https://github.com/AkshatGarg2005/Autonomous-Lunar-Landing-using-Proximal-Policy-Optimization
 cd LunarLander-PPO
 
 ```
