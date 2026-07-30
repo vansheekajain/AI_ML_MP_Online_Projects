@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Python environment artifacts
+__pycache__/
+
+
+
+# .chroma_db/
