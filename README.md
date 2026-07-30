@@ -1,5 +1,5 @@
 # AI_ML_MP_Online_Projects 
-# AI_ML_MP_Online_Projects
+
 
 A collection of Artificial Intelligence and Machine Learning projects completed as part of academic coursework and personal learning.
 
